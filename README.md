@@ -1,4 +1,8 @@
 RepoMan
 =======
 
-Example git repo - out of gas
+Example git repo
+
+* this is a list
+* with bullet points
+* in Markdown format
